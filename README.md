@@ -14,9 +14,7 @@ Puh. 050 466 9666
 
 ## Profiili
 
-Full Stack -kehittäjä, jolla on noin 10 vuoden kokemus web-kehityksestä ja useiden vuosien kokemus yrittäjänä. Vahvinta osaamistani ovat Laravel-pohjaiset web-sovellukset, WordPress sekä SaaS-tuotteiden rakentaminen.
-
-Olen työskennellyt sekä itsenäisesti että osana kehitystiimiä ja rakentanut ratkaisuja pienistä verkkosivuista räätälöityihin web-sovelluksiin ja verkkokauppoihin. Olen tottunut olemassa olevien järjestelmien ylläpitoon, ongelmien selvittämiseen ja koodin refaktorointiin.
+Full Stack -kehittäjä, jolla on noin 10 vuoden kokemus web-kehityksestä ja useiden vuosien kokemus yrittäjänä. Vahvinta osaamistani ovat Laravel-pohjaiset web-sovellukset, WordPress sekä SaaS-tuotteiden rakentaminen. Olen rakentanut ratkaisuja pienistä verkkosivuista räätälöityihin web-sovelluksiin ja verkkokauppoihin.
 
 ## Tekninen osaaminen
 
@@ -61,21 +59,16 @@ Olen työskennellyt sekä itsenäisesti että osana kehitystiimiä ja rakentanut
 
 Rakennan asiakkaille verkkosivuja, verkkokauppoja ja räätälöityjä ohjelmistoratkaisuja. Lisäksi kehitän omia SaaS-tuotteita.
 
-* Full Stack -web-kehitys asiakkaiden tarpeiden mukaan
-* Laravel-sovellusten kehitys
-* React, TypeScript ja InertiaJS
-* WordPress- ja WooCommerce-kehitys
 * Räätälöidyt hallintapaneelit, integraatiot ja API-ratkaisut
 * Asiakkaiden sivustojen ylläpito ja tekninen tuki
-* Linux-palvelinten, Nginxin ja deploy-ympäristöjen ylläpito
 * Suora asiakasviestintä ja osallistuminen asiakastapaamisiin
 * Omien SaaS-tuotteiden suunnittelu, kehitys ja julkaisu
 
 **Esimerkkejä asiakasprojekteista:**
 
-* **Pohjolan Kajo** – matkailualan yrityksen verkkosivusto.
-* **Villa Senobia** – huonekalujen entisöintiyrityksen verkkosivusto.
-* **Visiored** – oman yrityksen verkkosivusto ja palvelut.
+* **[Pohjolan Kajo](https://pohjolankajo.com)** – matkailualan yrityksen verkkosivusto.
+* **[Villa Senobia](https://villasenobia.fi)** – huonekalujen entisöintiyrityksen verkkosivusto.
+* **[Visiored](https://visiored.fi)** – oman yrityksen verkkosivusto.
 
 ### RoboGen Oy — Osakas / Tech dude
 
@@ -83,11 +76,8 @@ Rakennan asiakkaille verkkosivuja, verkkokauppoja ja räätälöityjä ohjelmist
 
 Kolmen henkilön yrityksessä vastasin yrityksen teknisestä kehityksestä ja toteutin asiakkaiden verkkoratkaisuja.
 
-* Web-sovellusten ja verkkosivustojen kehitys
-* Teknisten ratkaisujen suunnittelu ja toteutus
+* Asiakkaiden verkkosivustojen ja web-sovellusten suunnittelu ja toteutus
 * Olemassa olevien järjestelmien kehitys ja ylläpito
-* Asiakasprojektien tekninen toteutus
-* Ongelmanratkaisu
 * Asiakkaiden tekninen neuvonta ja suora viestintä
 
 ### Geniem Oy — Web-kehittäjä
@@ -96,12 +86,9 @@ Kolmen henkilön yrityksessä vastasin yrityksen teknisestä kehityksestä ja to
 
 Työskentelin WordPress-kehityksen, ylläpidon ja teknisen tuen parissa. Lisäksi tein pienimuotoista React-kehitystä.
 
-* WordPress-kehitys
-* Sivustojen ylläpito ja jatkokehitys
-* Tekninen support
-* Asiakkaiden ongelmien selvittäminen
-* React-kehitys
-* Työskentely osana kehitystiimiä
+* WordPress-sivustojen kehitys, ylläpito ja jatkokehitys
+* Tekninen tuki ja asiakkaiden ongelmien selvittäminen
+* Pienimuotoista React-kehitystä osana kehitystiimiä
 
 ### Artio Oy — Web-kehittäjä
 
@@ -109,7 +96,6 @@ Työskentelin WordPress-kehityksen, ylläpidon ja teknisen tuen parissa. Lisäks
 
 Ensimmäinen web-kehityksen työtehtäväni, jossa työskentelin WordPress- ja Joomla-kehityksen parissa.
 
-* WordPress- ja Joomla-kehitys
 * Olemassa olevien verkkopalveluiden jatkokehitys
 
 ---
@@ -135,17 +121,7 @@ https://testimoon.com
 
 ---
 
-## Työskentelytavat
-
-* Käytännönläheinen ongelmanratkaisija
-* Tottunut selvittämään ja korjaamaan olemassa olevaa koodia
-* Kokemusta itsenäisestä työskentelystä ja kehitystiimeistä
-* AI-työkaluja osana päivittäistä kehitystyötä
-* Tottunut työskentelemään suoraan asiakkaiden kanssa
-
----
-
 ## Kielet
 
-**Suomi** — äidinkieli
+**Suomi** — äidinkieli  
 **Englanti** — hyvä
