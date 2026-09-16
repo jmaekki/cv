@@ -114,9 +114,9 @@ Ensimmäinen web-kehityksen työtehtäväni, jossa työskentelin WordPress- ja J
 
 ---
 
-# Projektit
+## Projektit
 
-## Testimoon
+### Testimoon
 
 **Laravel · InertiaJS · React · TypeScript**
 
@@ -126,16 +126,16 @@ https://testimoon.com
 
 ---
 
-# Koulutus
+## Koulutus
 
-## Tampereen ammattikorkeakoulu
+### Tampereen ammattikorkeakoulu
 
 **Tietotekniikan tutkinto-ohjelma, Ohjelmistotekniikka**
 **Valmistunut 2023**
 
 ---
 
-# Työskentelytavat
+## Työskentelytavat
 
 * Käytännönläheinen ongelmanratkaisija
 * Tottunut selvittämään ja korjaamaan olemassa olevaa koodia
@@ -145,7 +145,7 @@ https://testimoon.com
 
 ---
 
-# Kielet
+## Kielet
 
 **Suomi** — äidinkieli
 **Englanti** — hyvä
