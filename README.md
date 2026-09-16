@@ -77,7 +77,7 @@ Rakennan asiakkaille verkkosivuja, verkkokauppoja ja räätälöityjä ohjelmist
 * **Villa Senobia** – huonekalujen entisöintiyrityksen verkkosivusto.
 * **Visiored** – oman yrityksen verkkosivusto ja palvelut.
 
-## RoboGen Oy — Osakas / Tech dude
+### RoboGen Oy — Osakas / Tech dude
 
 **08/2020 – 05/2024**
 
